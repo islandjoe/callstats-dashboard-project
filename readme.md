@@ -1,4 +1,4 @@
-# callstats.io Dashboard assignment
+# Admin Dashboard
 
 ## About
 
