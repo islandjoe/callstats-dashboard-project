@@ -4,8 +4,6 @@
 
 This project uses the provided SQLite database to access data through API calls.
 
-I made the liberty of adding some more endpoints.
-
 ![](Overview.png)
 
 
@@ -20,16 +18,6 @@ I made the liberty of adding some more endpoints.
 ~~selected by the user~~ 
 3. Media type per `appID` 
   - Distribution of _media types_ with the appID ~~selected by the user~~
-
-## Installing
-
-- `./callstats-io-dashboard/api/`: <kbd>npm install</kbd> 
-- `./callstats-io-dashboard/app/`: <kbd>npm install</kbd> 
-
-## Running
-
-- `./callstats-io-dashboard/api/`: <kbd>npm start</kbd> 
-- `./callstats-io-dashboard/app/`: <kbd>npm start</kbd> 
 
 The **API** is available at http://localhost:8081
 
